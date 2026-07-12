@@ -29,4 +29,3 @@ WHERE job_title = 'Data Analyst'
 GROUP BY location_category 
 ORDER BY 
     no_of_jobs DESC;  */
-
