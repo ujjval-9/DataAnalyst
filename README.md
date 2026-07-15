@@ -64,7 +64,7 @@ Leadership premium: Director and Associate Director positions consistently appea
 Principal-level demand: Three Principal Data Analyst roles appear in the top 10, highlighting the value of advanced analytical expertise.
 Typical top-tier range: Excluding the $650,000 outlier, most salaries cluster between $184K and $336K annually.
 
-![Top Paying Job Roles](assets\top_10_highest_paying_job_roles.png)
+![Top Paying Jobs](assets/top_10_paying.png)
 *Bar Graph visualizing top 10 highest paying job roles*
 
 ### 2.Skills For Top Paying Jobs ###
